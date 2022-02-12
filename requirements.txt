@@ -1,0 +1,10 @@
+flask
+vk_api
+python-dotenv~=0.17.1
+python-telegram-bot
+PyQt5~=5.15.4
+bs4~=0.0.1
+beautifulsoup4~=4.9.3
+requests~=2.25.1
+sqlite3
+yaweather~=1.2.2

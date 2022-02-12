@@ -1,0 +1,855 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.vk.com:443
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/groups.getLongPollServer HTTP/1.1" 200 124
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): lp.vk.com:443
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2484&wait=25 HTTP/1.1" 200 552
+INFO:root:New message cnfhn  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9207
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2485&wait=25 HTTP/1.1" 200 598
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2486&wait=25 HTTP/1.1" 200 557
+INFO:root:New message старт  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9207
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2487&wait=25 HTTP/1.1" 200 381
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2488&wait=25 HTTP/1.1" 200 567
+INFO:root:New message Расписание  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2489&wait=25 HTTP/1.1" 200 395
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2490&wait=25 HTTP/1.1" 200 565
+INFO:root:New message Экономика  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2491&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2492&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Третий курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2493&wait=25 HTTP/1.1" 200 426
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2494&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Завтра  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2495&wait=25 HTTP/1.1" 200 450
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2496&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Главное меню  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=54710701e10a378c4db9138a8027e887b75afa82&ts=2497&wait=25 HTTP/1.1" 200 381
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.vk.com:443
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/groups.getLongPollServer HTTP/1.1" 200 125
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): lp.vk.com:443
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2498&wait=25 HTTP/1.1" 200 557
+INFO:root:New message старт  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2499&wait=25 HTTP/1.1" 200 380
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2500&wait=25 HTTP/1.1" 200 567
+INFO:root:New message Расписание  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2501&wait=25 HTTP/1.1" 200 396
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2502&wait=25 HTTP/1.1" 200 616
+INFO:root:New message Информатика и вычислительная техника  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2503&wait=25 HTTP/1.1" 200 431
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2504&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Третий курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2505&wait=25 HTTP/1.1" 200 425
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2506&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Сменить курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2507&wait=25 HTTP/1.1" 200 428
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2508&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Первый курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9207
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2509&wait=25 HTTP/1.1" 200 426
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2510&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Завтра  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2511&wait=25 HTTP/1.1" 200 450
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2512&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Сменить курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2513&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2514&wait=25 HTTP/1.1" 200 584
+INFO:root:New message Сменить направление  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2515&wait=25 HTTP/1.1" 200 397
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2516&wait=25 HTTP/1.1" 200 565
+INFO:root:New message Экономика  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2517&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2518&wait=25 HTTP/1.1" 200 574
+INFO:root:New message Четвертый курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2519&wait=25 HTTP/1.1" 200 425
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2520&wait=25 HTTP/1.1" 200 561
+INFO:root:New message Сегодня  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2521&wait=25 HTTP/1.1" 200 444
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2522&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Главное меню  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2523&wait=25 HTTP/1.1" 200 380
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2524&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Погода  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.weather.yandex.ru:443
+DEBUG:urllib3.connectionpool:https://api.weather.yandex.ru:443 "GET /v2/forecast?lat=55.7499&lon=49.1263&lang=en_US HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2525&wait=25 HTTP/1.1" 200 474
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2526&wait=25 HTTP/1.1" 200 571
+INFO:root:New message Расположение  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2527&wait=25 HTTP/1.1" 200 406
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2528&wait=25 HTTP/1.1" 200 574
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+INFO:root:New message Учебный корпус  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): static-maps.yandex.ru:443
+DEBUG:urllib3.connectionpool:https://static-maps.yandex.ru:443 "GET /1.x/?l=map&ll=50.606843%2C55.364875&size=650%2C450&pt=50.606843%2C55.364875%2Cpm2rdm&z=17 HTTP/1.1" 200 49892
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.getMessagesUploadServer HTTP/1.1" 200 228
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): pu.vk.com:443
+DEBUG:urllib3.connectionpool:https://pu.vk.com:443 "POST /c537128/ss2256/upload.php?act=do_add&mid=934111&aid=-64&gid=204377364&hash=8455d63dc5168bf8864a28d556e6e86c&rhash=32e30daf1ef5cde24d0450476e5e0ed5&swfupload=1&api=1&mailphoto=1 HTTP/1.1" 200 939
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.saveMessagesPhoto HTTP/1.1" 200 862
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2529&wait=25 HTTP/1.1" 200 2678
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2530&wait=25 HTTP/1.1" 200 573
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9213
+INFO:root:New message Спорткомплекс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): static-maps.yandex.ru:443
+DEBUG:urllib3.connectionpool:https://static-maps.yandex.ru:443 "GET /1.x/?l=map&ll=50.581699%2C55.360147&size=650%2C450&pt=50.581699%2C55.360147%2Cpm2rdm&z=17 HTTP/1.1" 200 37409
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.getMessagesUploadServer HTTP/1.1" 200 229
+DEBUG:urllib3.connectionpool:https://pu.vk.com:443 "POST /c520236/ss2209/upload.php?act=do_add&mid=934111&aid=-64&gid=204377364&hash=374ff1acf7dafeee4d89ea26c70959d3&rhash=8e3fc5a52d7812d9914e4453f095ccb8&swfupload=1&api=1&mailphoto=1 HTTP/1.1" 200 946
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.saveMessagesPhoto HTTP/1.1" 200 854
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2531&wait=25 HTTP/1.1" 200 2677
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2532&wait=25 HTTP/1.1" 200 565
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9207
+INFO:root:New message Общежитие  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): static-maps.yandex.ru:443
+DEBUG:urllib3.connectionpool:https://static-maps.yandex.ru:443 "GET /1.x/?l=map&ll=50.577522%2C55.359666&size=650%2C450&pt=50.577522%2C55.359666%2Cpm2rdm&z=17 HTTP/1.1" 200 27564
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.getMessagesUploadServer HTTP/1.1" 200 228
+DEBUG:urllib3.connectionpool:https://pu.vk.com:443 "POST /c232431/ss2027/upload.php?act=do_add&mid=934111&aid=-64&gid=204377364&hash=64543d82a172cfa69c0b9667c9ba6d8e&rhash=dae4c7cc62fed1ea86830618b8fa8677&swfupload=1&api=1&mailphoto=1 HTTP/1.1" 200 941
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.saveMessagesPhoto HTTP/1.1" 200 862
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2533&wait=25 HTTP/1.1" 200 2677
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2534&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Главное меню  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=41feb05531309d9d51b4fa95189bb73066f3320d&ts=2535&wait=25 HTTP/1.1" 200 380
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.vk.com:443
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/groups.getLongPollServer HTTP/1.1" 200 123
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): lp.vk.com:443
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2536&wait=25 HTTP/1.1" 200 28
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2536&wait=25 HTTP/1.1" 200 557
+INFO:root:New message старт  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9212
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2537&wait=25 HTTP/1.1" 200 381
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2538&wait=25 HTTP/1.1" 200 559
+INFO:root:New message привет  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2539&wait=25 HTTP/1.1" 200 379
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2540&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Привет  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2541&wait=25 HTTP/1.1" 200 379
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2542&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Доброе утро  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9207
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2543&wait=25 HTTP/1.1" 200 379
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2544&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Как ты?  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2545&wait=25 HTTP/1.1" 200 597
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2546&wait=25 HTTP/1.1" 200 569
+INFO:root:New message добрый день!  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2547&wait=25 HTTP/1.1" 200 597
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2548&wait=25 HTTP/1.1" 200 28
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2548&wait=25 HTTP/1.1" 200 28
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2548&wait=25 HTTP/1.1" 200 28
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2548&wait=25 HTTP/1.1" 200 28
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2548&wait=25 HTTP/1.1" 200 28
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2548&wait=25 HTTP/1.1" 200 28
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2548&wait=25 HTTP/1.1" 200 28
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2548&wait=25 HTTP/1.1" 200 28
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=1dcaa79eeae58130e5d10e47bdc0bc801730aec0&ts=2548&wait=25 HTTP/1.1" 200 28
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.vk.com:443
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/groups.getLongPollServer HTTP/1.1" 200 123
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): lp.vk.com:443
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=090cfa134623e09ec15f2015233625006b41040e&ts=2548&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Привет  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=090cfa134623e09ec15f2015233625006b41040e&ts=2549&wait=25 HTTP/1.1" 200 380
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=090cfa134623e09ec15f2015233625006b41040e&ts=2550&wait=25 HTTP/1.1" 200 560
+INFO:root:New message Привет!  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=090cfa134623e09ec15f2015233625006b41040e&ts=2551&wait=25 HTTP/1.1" 200 597
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=090cfa134623e09ec15f2015233625006b41040e&ts=2552&wait=25 HTTP/1.1" 200 28
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.vk.com:443
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/groups.getLongPollServer HTTP/1.1" 200 123
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): lp.vk.com:443
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2552&wait=25 HTTP/1.1" 200 562
+INFO:root:New message Привет)))  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2553&wait=25 HTTP/1.1" 200 380
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2554&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Привет  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2555&wait=25 HTTP/1.1" 200 381
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2556&wait=25 HTTP/1.1" 200 567
+INFO:root:New message Расписание  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2557&wait=25 HTTP/1.1" 200 396
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2558&wait=25 HTTP/1.1" 200 561
+INFO:root:New message Привет:)  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2559&wait=25 HTTP/1.1" 200 379
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2560&wait=25 HTTP/1.1" 200 569
+INFO:root:New message Доброе утро!  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2561&wait=25 HTTP/1.1" 200 379
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2562&wait=25 HTTP/1.1" 200 569
+INFO:root:New message добрый день:  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2563&wait=25 HTTP/1.1" 200 379
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2564&wait=25 HTTP/1.1" 200 571
+INFO:root:New message добрый вечер(  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2565&wait=25 HTTP/1.1" 200 380
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2566&wait=25 HTTP/1.1" 200 567
+INFO:root:New message Расписание  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2567&wait=25 HTTP/1.1" 200 396
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2568&wait=25 HTTP/1.1" 200 577
+INFO:root:New message Приборостроение  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2569&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2570&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Второй курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2571&wait=25 HTTP/1.1" 200 424
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2572&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Завтра  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2573&wait=25 HTTP/1.1" 200 449
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2574&wait=25 HTTP/1.1" 200 561
+INFO:root:New message Сегодня  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9207
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2575&wait=25 HTTP/1.1" 200 452
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2576&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Завтра  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2577&wait=25 HTTP/1.1" 200 1470
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2578&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Сменить курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2579&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2580&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Третий курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2581&wait=25 HTTP/1.1" 200 426
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2582&wait=25 HTTP/1.1" 200 561
+INFO:root:New message Сегодня  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9212
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2583&wait=25 HTTP/1.1" 200 451
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2584&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Завтра  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2585&wait=25 HTTP/1.1" 200 1387
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2586&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Сменить курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9206
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2587&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2588&wait=25 HTTP/1.1" 200 574
+INFO:root:New message Четвертый курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2589&wait=25 HTTP/1.1" 200 427
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2590&wait=25 HTTP/1.1" 200 561
+INFO:root:New message Сегодня  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9205
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2591&wait=25 HTTP/1.1" 200 452
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2592&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Завтра  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2593&wait=25 HTTP/1.1" 200 1391
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2594&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Сменить курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2595&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2596&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Второй курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2597&wait=25 HTTP/1.1" 200 426
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2598&wait=25 HTTP/1.1" 200 561
+INFO:root:New message Сегодня  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2599&wait=25 HTTP/1.1" 200 453
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2600&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Завтра  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2601&wait=25 HTTP/1.1" 200 1470
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2602&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Сменить курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2603&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2604&wait=25 HTTP/1.1" 200 584
+INFO:root:New message Сменить направление  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9207
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2605&wait=25 HTTP/1.1" 200 396
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2606&wait=25 HTTP/1.1" 200 577
+INFO:root:New message Приборостроение  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2607&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2608&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Первый курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9206
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2609&wait=25 HTTP/1.1" 200 426
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2610&wait=25 HTTP/1.1" 200 561
+INFO:root:New message Сегодня  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9212
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2611&wait=25 HTTP/1.1" 200 452
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2612&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Завтра  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2613&wait=25 HTTP/1.1" 200 1101
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2614&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Сменить курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2615&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2616&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Третий курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2617&wait=25 HTTP/1.1" 200 427
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2618&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Завтра  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9211
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2619&wait=25 HTTP/1.1" 200 1386
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2620&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Сменить курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2621&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2622&wait=25 HTTP/1.1" 200 574
+INFO:root:New message Четвертый курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2623&wait=25 HTTP/1.1" 200 427
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2624&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Завтра  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9207
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2625&wait=25 HTTP/1.1" 200 1391
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2626&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Сменить курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2627&wait=25 HTTP/1.1" 200 429
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2628&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Первый курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2629&wait=25 HTTP/1.1" 200 426
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2630&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Завтра  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2631&wait=25 HTTP/1.1" 200 1101
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2632&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Сменить курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2633&wait=25 HTTP/1.1" 200 429
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2634&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Второй курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2635&wait=25 HTTP/1.1" 200 426
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2636&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Сменить курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2637&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2638&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Главное меню  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2639&wait=25 HTTP/1.1" 200 381
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2640&wait=25 HTTP/1.1" 200 559
+INFO:root:New message Погода  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9207
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.weather.yandex.ru:443
+DEBUG:urllib3.connectionpool:https://api.weather.yandex.ru:443 "GET /v2/forecast?lat=55.7499&lon=49.1263&lang=en_US HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2641&wait=25 HTTP/1.1" 200 474
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2642&wait=25 HTTP/1.1" 200 571
+INFO:root:New message Расположение  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9206
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2643&wait=25 HTTP/1.1" 200 406
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2644&wait=25 HTTP/1.1" 200 573
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9207
+INFO:root:New message Спорткомплекс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): static-maps.yandex.ru:443
+DEBUG:urllib3.connectionpool:https://static-maps.yandex.ru:443 "GET /1.x/?l=map&ll=50.581699%2C55.360147&size=650%2C450&pt=50.581699%2C55.360147%2Cpm2rdm&z=17 HTTP/1.1" 200 37409
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.getMessagesUploadServer HTTP/1.1" 200 229
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): pu.vk.com:443
+DEBUG:urllib3.connectionpool:https://pu.vk.com:443 "POST /c858116/ss2174/upload.php?act=do_add&mid=934111&aid=-64&gid=204377364&hash=de0ead3dbb15662fdbcc12afa19f96fa&rhash=a23442250850ef4621d4e5e10e6c8ab6&swfupload=1&api=1&mailphoto=1 HTTP/1.1" 200 946
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.saveMessagesPhoto HTTP/1.1" 200 853
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2645&wait=25 HTTP/1.1" 200 2677
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2646&wait=25 HTTP/1.1" 200 573
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9207
+INFO:root:New message Спорткомплекс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): static-maps.yandex.ru:443
+DEBUG:urllib3.connectionpool:https://static-maps.yandex.ru:443 "GET /1.x/?l=map&ll=50.581699%2C55.360147&size=650%2C450&pt=50.581699%2C55.360147%2Cpm2rdm&z=17 HTTP/1.1" 200 37409
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.getMessagesUploadServer HTTP/1.1" 200 226
+DEBUG:urllib3.connectionpool:https://pu.vk.com:443 "POST /c230321/ss2021/upload.php?act=do_add&mid=934111&aid=-64&gid=204377364&hash=15d4a752555c66fd5b348d95e464eb44&rhash=a919d4ef3e08543c1e4367254b231e2f&swfupload=1&api=1&mailphoto=1 HTTP/1.1" 200 944
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.saveMessagesPhoto HTTP/1.1" 200 852
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2647&wait=25 HTTP/1.1" 200 2679
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2648&wait=25 HTTP/1.1" 200 565
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+INFO:root:New message Общежитие  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): static-maps.yandex.ru:443
+DEBUG:urllib3.connectionpool:https://static-maps.yandex.ru:443 "GET /1.x/?l=map&ll=50.577522%2C55.359666&size=650%2C450&pt=50.577522%2C55.359666%2Cpm2rdm&z=17 HTTP/1.1" 200 27564
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.getMessagesUploadServer HTTP/1.1" 200 228
+DEBUG:urllib3.connectionpool:https://pu.vk.com:443 "POST /c842230/ss2069/upload.php?act=do_add&mid=934111&aid=-64&gid=204377364&hash=74e0825d16263c8da75c70e75d01b37d&rhash=a849d3d73a578c0013ae955986ad1f00&swfupload=1&api=1&mailphoto=1 HTTP/1.1" 200 942
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/photos.saveMessagesPhoto HTTP/1.1" 200 862
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2649&wait=25 HTTP/1.1" 200 2679
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2650&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Главное меню  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9206
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2651&wait=25 HTTP/1.1" 200 380
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:Resetting dropped connection: lp.vk.com
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2652&wait=25 HTTP/1.1" 200 567
+INFO:root:New message Расписание  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2653&wait=25 HTTP/1.1" 200 396
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2654&wait=25 HTTP/1.1" 200 577
+INFO:root:New message Приборостроение  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9208
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2655&wait=25 HTTP/1.1" 200 430
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2656&wait=25 HTTP/1.1" 200 568
+INFO:root:New message Второй курс  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9210
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2657&wait=25 HTTP/1.1" 200 426
+INFO:root:VkBotEventType.MESSAGE_REPLY
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2658&wait=25 HTTP/1.1" 200 570
+INFO:root:New message Главное меню  from 934111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): vk.com:443
+DEBUG:urllib3.connectionpool:https://vk.com:443 "GET /id934111 HTTP/1.1" 302 20
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.vk.com:443
+DEBUG:urllib3.connectionpool:https://m.vk.com:443 "GET /efjulia HTTP/1.1" 200 9209
+DEBUG:urllib3.connectionpool:https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+DEBUG:urllib3.connectionpool:https://lp.vk.com:443 "GET /wh204377364?act=a_check&key=732268d477fabacf038a5a028424a453b46e5546&ts=2659&wait=25 HTTP/1.1" 200 381
+INFO:root:VkBotEventType.MESSAGE_REPLY
